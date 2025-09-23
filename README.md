@@ -1,7 +1,7 @@
 # Integrative Project - Algorithms and Data Structures
 
 ## General Information
-- **Due date:** 10/02/2025  
+- **Due date:** 02/10/2025  
 - **Class section:** K1022  
 - **Professor:** Eng. Ricardo Luis Manuel Ferré  
 - **Students:**  
