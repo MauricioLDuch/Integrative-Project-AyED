@@ -1,20 +1,20 @@
-# Trabajo Práctico Integrador - Algoritmos y Estructuras de Datos
+# Integrative Project - Algorithms and Data Structures
 
-## Información General
-- **Fecha de entrega:** 02/10/2025 
-- **Comisión:** K1022  
-- **Profesor:** Ing. Ricardo Luis Manuel Ferré   
-- **Alumnos:**  
+## General Information
+- **Due date:** 10/02/2025  
+- **Class section:** K1022  
+- **Professor:** Eng. Ricardo Luis Manuel Ferré  
+- **Students:**  
   - Mauricio Lionel Duch  
-  - Julian David Zaffino
-  - Tomas Agustin Caserez 
-  - Ramiro Tomas Kechichian   
+  - Julian David Zaffino  
+  - Tomas Agustin Caserez  
+  - Ramiro Tomas Kechichian  
 
-## Descripción
-Este trabajo práctico integrador tiene como objetivo aplicar los conocimientos adquiridos en la materia **Algoritmos y Estructuras de Datos**.  
-El proyecto consiste en desarrollar una solución que permita poner en práctica conceptos como:  
-- Manejo de estructuras de datos.  
-- Implementación de algoritmos.  
-- Resolución de problemas mediante programación estructurada/objetual.  
+## Description
+This integrative project aims to apply the knowledge acquired in the subject **Algorithms and Data Structures**.  
+The project consists of developing a solution that puts into practice concepts such as:  
+- Management of data structures.  
+- Implementation of algorithms.  
+- Problem solving through structured/object-oriented programming.  
 
-La finalidad es que los estudiantes puedan integrar los temas vistos durante la cursada y demostrar su comprensión a través de un desarrollo práctico.
+The main goal is for students to integrate the topics covere
