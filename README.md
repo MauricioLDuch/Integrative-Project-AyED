@@ -17,4 +17,4 @@ The project consists of developing a solution that puts into practice concepts s
 - Implementation of algorithms.  
 - Problem solving through structured/object-oriented programming.  
 
-The main goal is for students to integrate the topics covere
+The main goal is for students to integrate the topics covered throughout the course and demonstrate their understanding through a practical development.
