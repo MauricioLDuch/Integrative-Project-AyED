@@ -3,7 +3,7 @@
 ## General Information
 - **Due date:** 02/10/2025  
 - **Class section:** K1022  
-- **Professor:** Eng. Ricardo Luis Manuel Ferré  
+- **Professor:** Ing. Ricardo Luis Manuel Ferré  
 - **Students:**  
   - Mauricio Lionel Duch  
   - Julian David Zaffino  
