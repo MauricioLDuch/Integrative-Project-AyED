@@ -8,7 +8,8 @@
   - Mauricio Lionel Duch  
   - Julian David Zaffino  
   - Tomas Agustin Caserez  
-  - Ramiro Tomas Kechichian  
+  - Ramiro Tomas Kechichian
+  - Emiliano Munguia
 
 ## Description
 This integrative project aims to apply the knowledge acquired in the subject **Algorithms and Data Structures**.  
